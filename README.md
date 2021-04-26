@@ -14,4 +14,4 @@ In this project, JavaScript functions are used to power a small browser based gu
 ### Preview
 To play the game click [here](https://martynm1982.github.io/Adhoc/Adhoc.html )
 
-![image](https://user-images.githubusercontent.com/77343504/115709549-420d6600-a369-11eb-8b1e-2991b08ceb39.png)
+![image](https://user-images.githubusercontent.com/77343504/116066646-2e6f4180-a680-11eb-9340-db51d12b6ce9.png)
