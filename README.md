@@ -12,6 +12,6 @@ In this project, JavaScript functions are used to power a small browser based gu
 - JavaScript
 
 ### Preview
-To play the game click [here](https://martynm1982.github.io/Adhoc/Adhoc.html )
+To play the game click [here](https://martynm1982.github.io/Number_Guesser_Game/index.html )
 
 ![image](https://user-images.githubusercontent.com/77343504/116066646-2e6f4180-a680-11eb-9340-db51d12b6ce9.png)
