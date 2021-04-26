@@ -12,6 +12,6 @@ In this project, JavaScript functions are used to power a small browser based gu
 - JavaScript
 
 ### Preview
-To play the game click [here](https://martynm1982.github.io/Number_Guesser_Game/blob/c379a6814f9c7ceca6972d93744208c3f3332afd/index.html)
+To play the game click [here](https://martynm1982.github.io/Number_Guesser_Game/)
 
 ![image](https://user-images.githubusercontent.com/77343504/116066646-2e6f4180-a680-11eb-9340-db51d12b6ce9.png)
