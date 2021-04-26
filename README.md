@@ -10,6 +10,8 @@ In this project, JavaScript functions are used to power a small browser based gu
 
 ### Technologies
 - JavaScript
+- HTML
+- CSS
 
 ### Preview
 To play the game click [here](https://martynm1982.github.io/Number_Guesser_Game/)
